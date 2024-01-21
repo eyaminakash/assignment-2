@@ -1,0 +1,33 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+
+.text-primary{
+    color: #FF5400;
+}
+
+nav{
+    display: flex;
+}
+
+.nav-title{
+    color: #131318;
+font-size: 36px;
+font-weight: 800;
+line-height: normal;
+}
+
+nav > ul{
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 44px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #424247;
+}
