@@ -65,7 +65,35 @@ flex-shrink: 0;
 border-radius: 8px;
 background: #FFF;
 display: flex;
+border: 0;
 }
 .submit{
     background: #FF5400;
+    border: 0;
+}
+
+
+/*Main Section*/
+
+
+.main-text{
+    padding: 14 69;
+}
+
+.popular{
+    display: flex;
+}
+.read-btn{
+    background: #FF5400;
+    border: 0;
+    width: 174px;
+height: 52px;
+}
+
+
+.destination{
+    text-align: center;
+}
+.img-place{
+    display: block;
 }
