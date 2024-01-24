@@ -85,9 +85,11 @@ border: 0;
 }
 .read-btn{
     background: #FF5400;
+    color: #FFF;
     border: 0;
-    width: 174px;
+    width: 210px;
 height: 52px;
+    font-size: 20px;
 }
 
 
@@ -96,4 +98,18 @@ height: 52px;
 }
 .img-place{
     display: block;
+}
+
+.skill-container{
+    display: flex;
+}
+
+.skill{
+    border-radius: 16px;
+    gap: 24px;
+}
+.img-container{
+    width: 1170px;
+height: 500px;
+flex-shrink: 0;
 }
